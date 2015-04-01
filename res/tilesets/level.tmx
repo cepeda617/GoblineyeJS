@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="30" height="20" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="level-tiles" tilewidth="32" tileheight="32">
+  <image source="level-tiles.png" width="256" height="576"/>
+ </tileset>
+ <layer name="background" width="30" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NgGAWjYBSMgsEHfIDYjo72JQOxKRCHAHEMiXrIcWc4kn5bKJ9YYAbVA7I3DErDMDpAlgOp9UXSTypwA+JQqFmuDIhwigVidyR1PlD5OCT1+NxIDIClB/Rw8mDAHnexVLSbAYu9+OIOOe0ihxM9wUDYOQpQAQCu/gF1YAkAAA==
+  </data>
+ </layer>
+ <layer name="details" width="30" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+2SywqAIBBF+9fc164orVbVqvrkrlAwiKn5aJMHzkK8juNgUWQyaalgTdalss8MZ99kKQI2sHXMD3CEk2O+h5ys1T5vbP3OcIGrIeNb+wnZ+wZ3eMDOs44NftV+6l/CSDYU0z02fGf5JfR9Mfp1qaebacjdseulRjcj3V8VDucy/+ME5SzsuGAJAAA=
+  </data>
+ </layer>
+ <layer name="ground" width="30" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+2TzQ5AMBCEG1FxwYUbR5EI3v/x7CaaNPU31Q0OneQ7YWa7pkpFRb2vhBiJXPjdL6WJzCJ9yXsmeqIkGmISzL3z5ucLkOnOj+wH9b7KKbbZbTrPORDZe0J4+p/0wbxmTwhu5pGfK75/NVEpmTvIfj3ox2eT7rOvH7Ijye+MWrXvKgJ3fgjI9e1yaKfdbLTLZ53+k1YMba8WYAkAAA==
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,38 @@
+{
+    "project_type": "javascript",
+
+    "debugMode" : 1,
+    "showFPS" : true,
+    "frameRate" : 60,
+    "id" : "gameCanvas",
+    "renderMode" : 0,
+    "engineDir":"frameworks/cocos2d-html5",
+
+    "modules" : ["cocos2d", "extensions"],
+
+    "jsList" : [
+        "vendor/underscore-min.js",
+        "vendor/underscore/swap.js",
+        "vendor/underscore/within.js",
+
+        "src/extensions/TMXLayer.js",
+
+        "src/resource.js",
+        "src/app.js",
+
+        "src/components/Gravity.js",
+        "src/components/Movement.js",
+        "src/components/MovementState.js",
+        "src/components/Velocity.js",
+        "src/components/TouchInput.js",
+
+        "src/scenes/Game.js",
+
+        "src/layers/Game.js",
+        "src/layers/TouchPad.js",
+
+        "src/maps/Level.js",
+
+        "src/sprites/Player.js"
+    ]
+}
